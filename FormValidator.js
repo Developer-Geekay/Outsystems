@@ -3,7 +3,7 @@
  * @description Manually invoking form validation. This will works only on Outsystems Reactive Application
  * @since      1.0.0
  * @author Developer Geekay <developergeekay@gmail.com>
- * @link URL
+ * @link https://github.com/Developer-Geekay/Outsystems/blob/45b0d3faf5efc912289e9aad8503750250ab7040/FormValidator.js
  * @fires OsValidator
  * @param {string} WidgetId 
  * 
