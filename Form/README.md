@@ -1,6 +1,6 @@
 # Form Validator
 
-Form Validator is a Javascript library for dealing with Validation in Outsystems.
+Form Validator is a Javascript library for dealing with Validation in Outsystems Reactive Web and Mobile.
 
 ## Getting Started
 
