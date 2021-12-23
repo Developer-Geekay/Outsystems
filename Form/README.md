@@ -13,7 +13,7 @@ git clone https://github.com/Developer-Geekay/Outsystems.git
 ```
 ### Demo
 
-Working code for this demo [example](https://developergeekay.outsystemscloud.com/OSDemo/validationtest)
+Working code for this demo < <a href="https://developergeekay.outsystemscloud.com/OSDemo/validationtest" target="_blank">OSDemo</a> >
 
 ### Usage
 
