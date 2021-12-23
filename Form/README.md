@@ -6,7 +6,7 @@ Form Validator is a Javascript library for dealing with Validation in Outsystems
 
 ### Installation
 
-Clone or Download From Github [Git](https://github.com/Developer-Geekay/Outsystems.git).
+Clone or Download From [Git](https://github.com/Developer-Geekay/Outsystems.git).
 
 ```bash
 git clone https://github.com/Developer-Geekay/Outsystems.git
